@@ -25,5 +25,5 @@ import { ResultComponent } from './+result';
   {path: '/result', component: ResultComponent}
 ])
 export class InqAppComponent {
-  title = 'inq works!';
+  title = 'inq workssss!';
 }
